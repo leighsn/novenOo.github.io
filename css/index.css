@@ -15,4 +15,17 @@
 		height:190px;
 		margin: auto;
 	}
-	
+	.center{
+		margin: auto;
+		text-align: center;
+		font-style: oblique;
+		color: #2471A3;
+	}
+	.fa{
+		white-space: nowrap;
+		font-size: 30px;
+	}
+	hr {
+		display: block;
+		border-top: 1px solid #ccc;
+	}
