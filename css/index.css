@@ -5,8 +5,6 @@
 		padding: 0;
 		text-align: center;
 		position: relative;
-	}
-	#li{
 		font-size: 20px;
 	}
 	.img{
@@ -22,10 +20,13 @@
 		color: #2471A3;
 	}
 	.fa{
-		white-space: nowrap;
-		font-size: 30px;
+		font-size: 25px;
 	}
 	hr {
 		display: block;
 		border-top: 1px solid #ccc;
+		width:200px;
+	}
+	.active{
+		background-color:#ddd; 
 	}
